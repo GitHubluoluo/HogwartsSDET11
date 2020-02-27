@@ -2,10 +2,13 @@
 # -*- coding: utf-8 -*-
 
 from collections import deque
+from hogwarts.sdet.Student import Student
+import fibo
 
 
 # 一 、python数据 类型
 # 1.数字 https://docs.python.org/3.7/tutorial/introduction.html#numbers
+
 number = 2
 print(number)
 # 2.字符串
@@ -219,5 +222,57 @@ class Teacher:
 Teacher.share(1, 2, 3,)
 
 
-# python 的包与模块
+# python 模块与包 默认从当前目录找
+# 引入模块
+# import fibo
+fibo.fib(1000)
+# 如果你想经常使用某个函数，你可以把它赋值给一个局部变量:
+fib = fibo.fib
+fib(500)
+# import 语句有一个变体，它可以把名字从一个被调模块内直接导入到现模块的符号表里
+# from fibo import fib, fib2
+fib(500)
+# from fibo import *
+fib(500)
+# from fibo import fib as fibonacci
+# fibonacci(500)
+
+#  引入包 from hogwarts.sdet.Student import Student
+
+"""
+sound/                          Top-level package
+      __init__.py               Initialize the sound package
+      formats/                  Subpackage for file format conversions
+              __init__.py
+              wavread.py
+              wavwrite.py
+              aiffread.py
+              aiffwrite.py
+              auread.py
+              auwrite.py
+              ...
+      effects/                  Subpackage for sound effects
+              __init__.py
+              echo.py
+              surround.py
+              reverse.py
+              ...
+      filters/                  Subpackage for filters
+              __init__.py
+              equalizer.py
+              vocoder.py
+              karaoke.py
+              ...
+"""
+
+# from sound.effects.echo import echofilter
+# echofilter(input, output, delay=0.7, atten=4)
+
+# from sound.effects import echo
+# echo.echofilter(input, output, delay=0.7, atten=4)
+
+s = Student()
+
+
+
 
