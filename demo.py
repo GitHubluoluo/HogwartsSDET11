@@ -149,4 +149,75 @@ Arguments: spam eggs
 spam and eggs
 """
 
-#  三、
+#  三、 类与方法
+# 12 普通类 变量与类方法
+
+
+class MyClass:
+    """A simple example class"""
+    i = 12345
+
+    def f(self):
+        return 'hello world'
+
+
+x = MyClass()
+print(x.i)
+print(x.f())
+
+# 13  实例化运算符的参数将被传递给 __init__()
+
+
+class Complex:
+
+    def __init__(self, realpart, imagpart):
+        """
+        :param realpart:
+        :param imagpart:
+        """
+        self.r = realpart
+        self.i = imagpart
+
+
+x = Complex(3.0, -4.5)
+print(x)
+
+
+class Dog:
+
+    def __init__(self, name):
+        self.name = name
+        self.tricks = []    # creates a new empty list for each dog
+
+    def add_trick(self, trick):
+        self.tricks.append(trick)
+
+    def name(self):
+        print(self.name)
+
+
+d = Dog('Fido')
+e = Dog('Buddy')
+d.add_trick('roll over')
+e.add_trick('play dead')
+
+"""
+d.tricks
+['roll over']
+e.tricks
+['play dead']
+"""
+# 14 类的方法
+
+
+class Teacher:
+    @classmethod
+    def share(cls, *c):
+        print(c)
+
+
+Teacher.share(1, 2, 3,)
+
+
+# python 的包与模块
+
