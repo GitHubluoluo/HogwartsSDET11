@@ -222,7 +222,7 @@ class Teacher:
 Teacher.share(1, 2, 3,)
 
 
-# python 模块与包 默认从当前目录找
+# 四 python 模块与包 默认从当前目录找
 # 引入模块
 # import fibo
 fibo.fib(1000)
@@ -273,6 +273,30 @@ sound/                          Top-level package
 
 s = Student()
 
+
+# 五 python测试框架 标准库unittest 单元测试框架 了解
+# https://docs.python.org/zh-cn/3.7/library/unittest.html
+# 1.test fixture  测试预制
+# 2 test case 测试用例
+# 3 test suite 测试套件 容纳用例
+# 4 test runner 运行
+"""
+为了实现这些，unittest 通过面向对象的方式支持了一些重要的概念。
+
+测试脚手架
+test fixture 表示为了开展一项或多项测试所需要进行的准备工作，以及所有相关的清理操作。举个例子，这可能包含创建临时或代理的数据库、目录，再或者启动一个服务器进程。
+
+测试用例
+一个测试用例是一个独立的测试单元。它检查输入特定的数据时的响应。 unittest 提供一个基类： TestCase ，用于新建测试用例。
+
+测试套件
+test suite 是一系列的测试用例，或测试套件，或两者皆有。它用于归档需要一起执行的测试。
+
+测试运行器（test runner）
+test runner 是一个用于执行和输出测试结果的组件。这个运行器可能使用图形接口、文本接口，或返回一个特定的值表示运行测试的结果。
+"""
+
+# 六 集成测试框架 Pytest  https://docs.pytest.org/en/latest/
 
 
 
