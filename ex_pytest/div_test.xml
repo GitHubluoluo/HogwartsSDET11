@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="5" hostname="luoluo-PC" name="pytest" skipped="0" tests="9" time="0.087" timestamp="2020-02-29T21:35:14.818236"><testcase classname="test_pytest.test_div" file="test_pytest\test_div.py" line="63" name="test_div_int" time="0.002"></testcase><testcase classname="test_pytest.test_div" file="test_pytest\test_div.py" line="70" name="test_div_float" time="0.000"><failure message="assert 3.3333333333333335 == 3.555
+ +  where 3.3333333333333335 = div(10, 3)">def test_div_float():
+&gt;       assert div(10, 3) == 3.555
+E       assert 3.3333333333333335 == 3.555
+E        +  where 3.3333333333333335 = div(10, 3)
+
+test_pytest\test_div.py:72: AssertionError</failure></testcase><testcase classname="test_pytest.test_div" file="test_pytest\test_div.py" line="74" name="test_div_exception" time="0.000"><failure message="TypeError: unsupported operand type(s) for /: &apos;int&apos; and &apos;str&apos;">def test_div_exception():
+&gt;       assert div(10, &apos;a&apos;) == 0
+
+test_pytest\test_div.py:76: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+a = 10, b = &apos;a&apos;
+
+    def div(a, b):
+&gt;       return a/b
+E       TypeError: unsupported operand type(s) for /: &apos;int&apos; and &apos;str&apos;
+
+test_pytest\div.py:13: TypeError</failure></testcase><testcase classname="test_pytest.test_div" file="test_pytest\test_div.py" line="78" name="test_div_zero" time="0.000"><failure message="ZeroDivisionError: division by zero">def test_div_zero():
+&gt;       assert div(10, 0) is None
+
+test_pytest\test_div.py:80: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+a = 10, b = 0
+
+    def div(a, b):
+&gt;       return a/b
+E       ZeroDivisionError: division by zero
+
+test_pytest\div.py:13: ZeroDivisionError</failure></testcase><testcase classname="test_pytest.test_pytest" file="test_pytest\test_pytest.py" line="20" name="test_mytest" time="0.001"><system-out>setup_module
+setup_function
+</system-out></testcase><testcase classname="test_pytest.test_pytest.TestClass" file="test_pytest\test_pytest.py" line="36" name="test_one" time="0.000"></testcase><testcase classname="test_pytest.test_pytest.TestClass" file="test_pytest\test_pytest.py" line="40" name="test_two" time="0.001"><failure message="AssertionError: assert False
+ +  where False = hasattr(&apos;hello&apos;, &apos;check&apos;)">self = &lt;test_pytest.test_pytest.TestClass object at 0x000001E56A89B4C8&gt;
+
+    def test_two(self):
+        x = &quot;hello&quot;
+&gt;       assert hasattr(x, &quot;check&quot;)
+E       AssertionError: assert False
+E        +  where False = hasattr(&apos;hello&apos;, &apos;check&apos;)
+
+test_pytest\test_pytest.py:43: AssertionError</failure></testcase><testcase classname="test_pytest.test_pytest.TestMyClass" file="test_pytest\test_pytest.py" line="73" name="test_one" time="0.001"><system-out>setup_class
+setup
+</system-out></testcase><testcase classname="test_pytest.test_pytest.TestMyClass" file="test_pytest\test_pytest.py" line="77" name="test_two" time="0.002"><failure message="AssertionError: assert False
+ +  where False = hasattr(&apos;hello&apos;, &apos;check&apos;)">self = &lt;test_pytest.test_pytest.TestMyClass object at 0x000001E56A89DE88&gt;
+
+    def test_two(self):
+        x = &quot;hello&quot;
+&gt;       assert hasattr(x, &quot;check&quot;)
+E       AssertionError: assert False
+E        +  where False = hasattr(&apos;hello&apos;, &apos;check&apos;)
+
+test_pytest\test_pytest.py:80: AssertionError</failure><system-out>setup
+</system-out></testcase></testsuite></testsuites>
