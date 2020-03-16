@@ -211,6 +211,64 @@ https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/caps
 https://github.com/appium/appium-desktop 
 """
 
+
+# 借助appium desktop
+
+"""
+# 查看 app 控件的定位
+
+打开 appium desktop -> 点击 start inspector session (端口号换 5723)-> 选择 custom server 
+
+# 测试参数 
+{
+  "platformName": "android",
+  "deviceName": "xiaomi",
+  "appPackage": "com.xueqiu.android",
+  "appActivity": ".view.WelcomeActivityAlias",
+  "undefined": "uiautomator2"
+}
+
+amdroid 的界面是基于xml的 
+多使用 id 或者 xpath
+Attribute   Value
+elementId	9a90367c-5b6e-4723-9e96-1c5b39068034
+index	0
+package	com.xueqiu.android
+class	android.widget.TextView
+text	热门
+resource-id	com.xueqiu.android:id/title_text
+checkable	false
+
+
+ID
+resource-id	com.xueqiu.android:id/title_text
+使用 title_text 找到 3个
+
+XPATH
+更多关于xpath 语法请看文档  https://www.w3school.com.cn/xpath/index.asp
+
+绝对定位 不推荐 路径太长
+
+推荐 相对 定位 
+
+//*[@text='热门']
+
+如果使用 Xpath 不严谨 可以使用  contains函数 辅助 resource-id
+
+//*[@text='推荐' and contains(@resource-id,'title')]
+使用AccessibilityId 控件要有
+content-desc 属性有值才可以
+accessibilityId ：content-desc
+
+不推荐  ：name  无用  class name 也不推荐 
+
+
+ios 
+
+多使用 content-desc 属性 accessfor 定位
+
+"""
+
 # 使用 appium servse
 """
 运行 appium 使用 -g 参数追加 日志 

@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/ex_selenium/test_work_two.py" line="106" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad2473df-c3d4-4238-8de3-1eb871ce6ede" name="Default Changelist" comment="add ex_PO notebook PO">
-      <change afterPath="$PROJECT_DIR$/ex_appium/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_appium/appium_install.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_appium/test_android_studio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_appium/test_mix2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_appium/test_xueqiu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/lenrn_appium/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/lenrn_appium/appium_doc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/lenrn_appium/appium_install.py" afterDir="false" />
+    <list default="true" id="ad2473df-c3d4-4238-8de3-1eb871ce6ede" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_appium/test_xueqiu.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_appium/test_xueqiu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/lenrn_appium/appium_doc.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/lenrn_appium/appium_doc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/lenrn_appium/appium_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/lenrn_appium/appium_install.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,75 +15,54 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_four_TestWorkFour_test_work_three.coverage" NAME="pytest for test_work_four.TestWorkFour.test_work_three Coverage Results" MODIFIED="1583414050197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_div_test_div_int.coverage" NAME="pytest for test_div.test_div_int Coverage Results" MODIFIED="1583051444193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_three_TestWorkThree_test_java_script.coverage" NAME="pytest for test_work_three.TestWorkThree.test_java_script Coverage Results" MODIFIED="1583416741363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_main_TestMain_test_register.coverage" NAME="pytest for test_main.TestMain.test_register Coverage Results" MODIFIED="1583753952764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_page_object/test_case" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$demo.coverage" NAME="demo Coverage Results" MODIFIED="1582816085843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_two_TestHogwartsOne_test_hogwarts.coverage" NAME="pytest for test_work_two.TestHogwartsOne.test_hogwarts Coverage Results" MODIFIED="1583464922052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu_test_search.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_search Coverage Results" MODIFIED="1584196012964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_tset_work_py.coverage" NAME="pytest in tset_work.py Coverage Results" MODIFIED="1583124373183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_mix2_py.coverage" NAME="pytest in test_mix2.py Coverage Results" MODIFIED="1584151082923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_hogwarts_py.coverage" NAME="pytest in test_hogwarts.py Coverage Results" MODIFIED="1583372512283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_homework_test_answer.coverage" NAME="pytest for homework.test_answer Coverage Results" MODIFIED="1582971544841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_unittest" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_main_TestMain_test_add_member.coverage" NAME="pytest for test_main.TestMain.test_add_member Coverage Results" MODIFIED="1583756106987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_page_object/test_case" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_pytest_test_answer.coverage" NAME="pytest for test_pytest.test_answer Coverage Results" MODIFIED="1582874683156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_pytest_py.coverage" NAME="pytest in test_pytest.py Coverage Results" MODIFIED="1582890783736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_two_TestHogwartsOne_test_work_two.coverage" NAME="pytest for test_work_two.TestHogwartsOne.test_work_two Coverage Results" MODIFIED="1583417662099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_homework_py.coverage" NAME="pytest in test_div.py Coverage Results" MODIFIED="1582977855368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_unittest" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$Index.coverage" NAME="Index Coverage Results" MODIFIED="1583569587141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_page_object/page" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_two_TestHogwartsOne_test_work_three.coverage" NAME="pytest for test_work_two.TestHogwartsOne.test_work_three Coverage Results" MODIFIED="1583460108838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_test_answer.coverage" NAME="pytest for test_work.test_answer Coverage Results" MODIFIED="1582974764546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_two_TestHogwarts_test_work_three.coverage" NAME="pytest for test_work_two.TestHogwarts.test_work_three Coverage Results" MODIFIED="1583411782689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_tools_TestMain_test_import_member.coverage" NAME="pytest for test_tools.TestMain.test_import_member Coverage Results" MODIFIED="1583674922638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_page_object/test_case" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_three_TestWorkThree.coverage" NAME="pytest for test_work_three.TestWorkThree Coverage Results" MODIFIED="1583414167206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_three_TestWorkThree_test_work_browser.coverage" NAME="pytest for test_work_three.TestWorkThree.test_work_browser Coverage Results" MODIFIED="1583415253491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_work_py.coverage" NAME="pytest in test_work.py Coverage Results" MODIFIED="1583250661099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_xueqiu_py.coverage" NAME="pytest in test_xueqiu.py Coverage Results" MODIFIED="1584152355197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_contacts_TestContacts_test_edit_member.coverage" NAME="pytest for test_contacts.TestContacts.test_edit_member Coverage Results" MODIFIED="1583760606655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_page_object/test_case" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_defaultSuite_py.coverage" NAME="pytest in test_defaultSuite.py Coverage Results" MODIFIED="1583250616628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_three_TestWorkThree_test_work_three.coverage" NAME="pytest for test_work_three.TestWorkThree.test_work_three Coverage Results" MODIFIED="1583414584463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_two_TestHogwartsOne_test_work_four.coverage" NAME="pytest for test_work_two.TestHogwartsOne.test_work_four Coverage Results" MODIFIED="1583459510868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_two_TestHogwarts_test_work_two.coverage" NAME="pytest for test_work_two.TestHogwarts.test_work_two Coverage Results" MODIFIED="1583386981540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_browser_py.coverage" NAME="pytest in test_browser.py Coverage Results" MODIFIED="1583413154723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_two_TestHogwartsOne_test_more_window.coverage" NAME="pytest for test_work_two.TestHogwartsOne.test_more_window Coverage Results" MODIFIED="1583461748065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_index_TestIndex_test_login.coverage" NAME="pytest for test_index.TestIndex.test_login Coverage Results" MODIFIED="1583594447961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_page_object/test_case" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_work1_py.coverage" NAME="pytest in test_work_two.py Coverage Results" MODIFIED="1583376184965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_browser_TestHogwarts_test_work_three.coverage" NAME="pytest for test_browser.TestHogwarts.test_work_three Coverage Results" MODIFIED="1583413517711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_pytest.coverage" NAME="pytest in test_pytest Coverage Results" MODIFIED="1582980305270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu_test_get_price.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_get_price Coverage Results" MODIFIED="1584198001179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu_test_get_price.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_get_price Coverage Results" MODIFIED="1584260481809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_defaultSuite2_py.coverage" NAME="pytest in test_defaultSuite2.py Coverage Results" MODIFIED="1583250634172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_work_py__1_.coverage" NAME="pytest in test_work.py (1) Coverage Results" MODIFIED="1583230902463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_main_TestMain_test_send_msg.coverage" NAME="pytest for test_main.TestMain.test_send_msg Coverage Results" MODIFIED="1583753870206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_page_object/test_case" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_unity_TestStringMethods.coverage" NAME="pytest for unity.TestStringMethods Coverage Results" MODIFIED="1582875219161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_unittest" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_unity_TestStringMethods_test_upper.coverage" NAME="pytest for unity.TestStringMethods.test_upper Coverage Results" MODIFIED="1582875244885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_unittest" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_two_TestHogwartsOne_test_qw_add_user.coverage" NAME="pytest for test_work_two.TestHogwartsOne.test_qw_add_user Coverage Results" MODIFIED="1583471223257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_pytest_test_mytest.coverage" NAME="pytest for test_pytest.test_mytest Coverage Results" MODIFIED="1582877868941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_main_TestMain_test_import_member.coverage" NAME="pytest for test_main.TestMain.test_import_member Coverage Results" MODIFIED="1583672462040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_page_object/test_case" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_index_TestIndex_test_register.coverage" NAME="pytest for test_index.TestIndex.test_register Coverage Results" MODIFIED="1583594312939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_page_object/test_case" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex_appium/test_xueqiu.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-              <folding>
-                <element signature="e#288#313#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/notebook/lenrn_appium/appium_doc.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_three_TestWorkThree_test_java_script.coverage" NAME="pytest for test_work_three.TestWorkThree.test_java_script Coverage Results" MODIFIED="1583416741363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$demo.coverage" NAME="demo Coverage Results" MODIFIED="1582816085843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_two_TestHogwartsOne_test_hogwarts.coverage" NAME="pytest for test_work_two.TestHogwartsOne.test_hogwarts Coverage Results" MODIFIED="1583464922052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_hogwarts_py.coverage" NAME="pytest in test_hogwarts.py Coverage Results" MODIFIED="1583372512283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_homework_test_answer.coverage" NAME="pytest for homework.test_answer Coverage Results" MODIFIED="1582971544841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_unittest" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_two_TestHogwartsOne_test_work_two.coverage" NAME="pytest for test_work_two.TestHogwartsOne.test_work_two Coverage Results" MODIFIED="1583417662099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_homework_py.coverage" NAME="pytest in test_div.py Coverage Results" MODIFIED="1582977855368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_unittest" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_test_answer.coverage" NAME="pytest for test_work.test_answer Coverage Results" MODIFIED="1582974764546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_three_TestWorkThree_test_work_browser.coverage" NAME="pytest for test_work_three.TestWorkThree.test_work_browser Coverage Results" MODIFIED="1583415253491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_work_py.coverage" NAME="pytest in test_work.py Coverage Results" MODIFIED="1583250661099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_xueqiu_py.coverage" NAME="pytest in test_xueqiu.py Coverage Results" MODIFIED="1584245026971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_contacts_TestContacts_test_edit_member.coverage" NAME="pytest for test_contacts.TestContacts.test_edit_member Coverage Results" MODIFIED="1583760606655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_page_object/test_case" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu_test_get_ali_hk_price.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_get_ali_hk_price Coverage Results" MODIFIED="1584277663046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_three_TestWorkThree_test_work_three.coverage" NAME="pytest for test_work_three.TestWorkThree.test_work_three Coverage Results" MODIFIED="1583414584463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu_test_page_source.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_page_source Coverage Results" MODIFIED="1584279553023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_two_TestHogwarts_test_work_two.coverage" NAME="pytest for test_work_two.TestHogwarts.test_work_two Coverage Results" MODIFIED="1583386981540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_browser_py.coverage" NAME="pytest in test_browser.py Coverage Results" MODIFIED="1583413154723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_index_TestIndex_test_login.coverage" NAME="pytest for test_index.TestIndex.test_login Coverage Results" MODIFIED="1583594447961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_page_object/test_case" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_work1_py.coverage" NAME="pytest in test_work_two.py Coverage Results" MODIFIED="1583376184965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu_test_devices.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_devices Coverage Results" MODIFIED="1584272551691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_pytest.coverage" NAME="pytest in test_pytest Coverage Results" MODIFIED="1582980305270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_main_TestMain_test_send_msg.coverage" NAME="pytest for test_main.TestMain.test_send_msg Coverage Results" MODIFIED="1583753870206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_page_object/test_case" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu_test_scroll.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_scroll Coverage Results" MODIFIED="1584271995768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_unity_TestStringMethods.coverage" NAME="pytest for unity.TestStringMethods Coverage Results" MODIFIED="1582875219161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_unittest" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_two_TestHogwartsOne_test_qw_add_user.coverage" NAME="pytest for test_work_two.TestHogwartsOne.test_qw_add_user Coverage Results" MODIFIED="1583471223257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,120 +86,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/hogwarts/sdet/Student.py" />
-        <option value="$PROJECT_DIR$/fib.py" />
-        <option value="$PROJECT_DIR$/demo.py" />
-        <option value="$PROJECT_DIR$/test_unittest/unity.py" />
-        <option value="$PROJECT_DIR$/test_unittest/header.py" />
-        <option value="$PROJECT_DIR$/header.py" />
-        <option value="$PROJECT_DIR$/test_unittest/homework.py" />
-        <option value="$PROJECT_DIR$/test_pytest/div.py" />
-        <option value="$PROJECT_DIR$/test_pytest/test_pytest.py" />
-        <option value="$PROJECT_DIR$/test_pytest/div_test.xml" />
-        <option value="$PROJECT_DIR$/test_pytest/tset_work.py" />
-        <option value="$PROJECT_DIR$/test_pytest/test_work.py" />
-        <option value="$PROJECT_DIR$/test_pytest/test_div.py" />
-        <option value="$PROJECT_DIR$/notebook/my_pytest/test_div.py" />
-        <option value="$PROJECT_DIR$/ex_python/demo.py" />
-        <option value="$PROJECT_DIR$/notebook/learn_selenium/install_EEV.py" />
-        <option value="$PROJECT_DIR$/ex_selenium/test_work.py" />
-        <option value="$PROJECT_DIR$/ex_selenium/test_defaultSuite2.py" />
-        <option value="$PROJECT_DIR$/notebook/learn_selenium/install_ev.py" />
-        <option value="$PROJECT_DIR$/ex_selenium/test_work1.py" />
-        <option value="$PROJECT_DIR$/ex_selenium/test_hogwarts.py" />
-        <option value="$PROJECT_DIR$/ex_selenium/test_browser.py" />
-        <option value="$PROJECT_DIR$/ex_selenium/test_work_four.py" />
-        <option value="$PROJECT_DIR$/ex_selenium/test_work_three.py" />
-        <option value="$PROJECT_DIR$/ex_selenium/test_defaultSuite.py" />
-        <option value="$PROJECT_DIR$/notebook/learn_selenium/pageObject.py" />
-        <option value="$PROJECT_DIR$/notebook/learn_pageObject/pageObject.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/page/Contacts.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/page/Register.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/page/BasePage.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/page/Index.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/test_case/test_index.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/page/manageTools.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/page/base_page.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/page/index.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/page/login.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/page/register.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/test_case/test_tools.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/page/main.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/test_case/test_message.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/page/message.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/page/tools.py" />
-        <option value="$PROJECT_DIR$/ex_selenium/test_work_two.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/test_case/test_contacts.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/test_case/test_main.py" />
-        <option value="$PROJECT_DIR$/ex_page_object/page/contacts.py" />
-        <option value="$PROJECT_DIR$/ex_appium/appium_install.py" />
-        <option value="$PROJECT_DIR$/notebook/lenrn_appium/appium_install.py" />
-        <option value="$PROJECT_DIR$/ex_appium/test_mix2.py" />
-        <option value="$PROJECT_DIR$/ex_appium/test_xueqiu.py" />
-        <option value="$PROJECT_DIR$/notebook/lenrn_appium/appium_doc.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1913" />
-    <option name="width" value="1423" />
-    <option name="height" value="1047" />
-  </component>
+  <component name="ProjectId" id="1ZAaY3NKT6oyjHWHgXJFKjilWsJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HogwartsSDET11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HogwartsSDET11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HogwartsSDET11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HogwartsSDET11" type="462c0819:PsiDirectoryNode" />
-              <item name="ex_appium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HogwartsSDET11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HogwartsSDET11" type="462c0819:PsiDirectoryNode" />
-              <item name="notebook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HogwartsSDET11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HogwartsSDET11" type="462c0819:PsiDirectoryNode" />
-              <item name="notebook" type="462c0819:PsiDirectoryNode" />
-              <item name="lenrn_appium" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Changed Files'; set:Changed Files; ALL; class com.intellij.packageDependencies.ChangeListScope">
-          <expand>
-            <path>
-              <item name="HogwartsSDET11" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/test_pytest/div_test.log&#10;true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -244,19 +115,39 @@
       <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11\test_pytest" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python tests.pytest for test_xueqiu.TestXueqiu.test_get_price">
+  <component name="RunManager" selected="Python tests.pytest for test_xueqiu.TestXueqiu.test_page_source">
+    <configuration name="pytest for test_xueqiu.TestXueqiu.test_devices" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HogwartsSDET11" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_appium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_xueqiu.TestXueqiu.test_devices&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_xueqiu.TestXueqiu.test_get_ali_hk_price" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HogwartsSDET11" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_appium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_xueqiu.TestXueqiu.test_get_ali_hk_price&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for test_xueqiu.TestXueqiu.test_get_price" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="HogwartsSDET11" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,7 +164,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_xueqiu.TestXueqiu.test_search" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_xueqiu.TestXueqiu.test_page_source" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="HogwartsSDET11" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,11 +176,11 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xueqiu.TestXueqiu.test_search&quot;" />
+      <option name="_new_target" value="&quot;test_xueqiu.TestXueqiu.test_page_source&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_android_studio.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_xueqiu.TestXueqiu.test_scroll" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="HogwartsSDET11" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,49 +192,17 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/ex_appium/test_android_studio.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_mix2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="HogwartsSDET11" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_appium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/ex_appium/test_mix2.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_xueqiu.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="HogwartsSDET11" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_appium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/ex_appium/test_xueqiu.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_xueqiu.TestXueqiu.test_scroll&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_xueqiu.TestXueqiu.test_page_source" />
+        <item itemvalue="Python tests.pytest for test_xueqiu.TestXueqiu.test_get_ali_hk_price" />
+        <item itemvalue="Python tests.pytest for test_xueqiu.TestXueqiu.test_devices" />
+        <item itemvalue="Python tests.pytest for test_xueqiu.TestXueqiu.test_scroll" />
         <item itemvalue="Python tests.pytest for test_xueqiu.TestXueqiu.test_get_price" />
-        <item itemvalue="Python tests.pytest for test_xueqiu.TestXueqiu.test_search" />
-        <item itemvalue="Python tests.pytest in test_xueqiu.py" />
-        <item itemvalue="Python tests.pytest in test_mix2.py" />
-        <item itemvalue="Python tests.pytest in test_android_studio.py" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +243,13 @@
       <workItem from="1584015346808" duration="2867000" />
       <workItem from="1584018228283" duration="3017000" />
       <workItem from="1584090381142" duration="7971000" />
-      <workItem from="1584144375540" duration="14670000" />
+      <workItem from="1584144375540" duration="14724000" />
+      <workItem from="1584244830429" duration="16046000" />
+      <workItem from="1584284401905" duration="63000" />
+      <workItem from="1584284478629" duration="147000" />
+      <workItem from="1584284776560" duration="211000" />
+      <workItem from="1584285042121" duration="13000" />
+      <workItem from="1584321359454" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1582725529245</created>
@@ -428,43 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1582955120441</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add appium ex and note">
+      <created>1584198276421</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584198276422</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="pytest_in_test_xueqiu_py - 2020.03.14 at 10h 19m 40s.xml">
-      <configuration name="pytest in test_xueqiu.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_search - 2020.03.14 at 10h 32m 15s.xml">
-      <configuration name="pytest for test_xueqiu.TestXueqiu.test_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_search - 2020.03.14 at 10h 33m 01s.xml">
-      <configuration name="pytest for test_xueqiu.TestXueqiu.test_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_search - 2020.03.14 at 22h 16m 27s.xml">
-      <configuration name="pytest for test_xueqiu.TestXueqiu.test_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_search - 2020.03.14 at 22h 27m 13s.xml">
-      <configuration name="pytest for test_xueqiu.TestXueqiu.test_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_get_price - 2020.03.14 at 22h 54m 34s.xml">
-      <configuration name="pytest for test_xueqiu.TestXueqiu.test_get_price" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_get_price - 2020.03.14 at 22h 57m 13s.xml">
-      <configuration name="pytest for test_xueqiu.TestXueqiu.test_get_price" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_get_price - 2020.03.14 at 22h 57m 52s.xml">
-      <configuration name="pytest for test_xueqiu.TestXueqiu.test_get_price" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_get_price - 2020.03.14 at 22h 59m 17s.xml">
-      <configuration name="pytest for test_xueqiu.TestXueqiu.test_get_price" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_get_price - 2020.03.14 at 23h 00m 23s.xml">
-      <configuration name="pytest for test_xueqiu.TestXueqiu.test_get_price" configurationId="tests" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194949000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -474,56 +311,6 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1913" y="0" width="1423" height="1047" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16947909" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.47973713" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.54772234" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286334" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24520256" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.44577006" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.27982646" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286334" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -535,343 +322,21 @@
     <MESSAGE value="add demo notebook" />
     <MESSAGE value="add demo notebook package" />
     <MESSAGE value="add ex_PO notebook PO" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ex_PO notebook PO" />
+    <MESSAGE value="add appium ex and note" />
+    <option name="LAST_COMMIT_MESSAGE" value="add appium ex and note" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex_selenium/2.png" />
-    <entry file="file://$PROJECT_DIR$/ex_selenium/CDwindow-A723A1455F675275D60611F0EC04411A.png" />
-    <entry file="file://$PROJECT_DIR$/ex_selenium/CDwindow-FFEFB27249775994C7E8EF83F8B879CF.png" />
-    <entry file="file://$PROJECT_DIR$/ex_selenium/CDwindow-FFA13307B470B5EF002976DE64CB2093.png" />
-    <entry file="file://$PROJECT_DIR$/ex_selenium/geckodriver.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="-4465" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_selenium/test_defaultSuite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-          <folding>
-            <element signature="e#28#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_selenium/CDwindow-55F48F30DF9BD4A830EBCF1AF4B1BE1B.png" />
-    <entry file="file://$PROJECT_DIR$/ex_selenium/CDwindow-880AF6723F5C206F8D081952172F969E.png" />
-    <entry file="file://$PROJECT_DIR$/ex_selenium/CDwindow-122A1AB32BF34522468CE35427FF9542.png" />
-    <entry file="file://$PROJECT_DIR$/notebook/learn_selenium/pageObject.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1321">
-          <caret line="60" column="58" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/options.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_selenium/test_work_three.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-283">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_page_object/page/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-          <folding>
-            <element signature="e#132#175#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_page_object/page/register.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-          <folding>
-            <element signature="e#135#178#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_page_object/page/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-          <folding>
-            <element signature="e#132#175#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3307">
-          <caret line="967" column="23" lean-forward="true" selection-start-line="967" selection-start-column="23" selection-end-line="967" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_page_object/test_case/test_message.py" />
-    <entry file="file://$PROJECT_DIR$/ex_page_object/test_case/test_tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_page_object/test_case/test_index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_page_object/page/tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#133#176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_selenium/test_work_one.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_selenium/test_work_two.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-973">
-          <caret line="106" column="58" lean-forward="true" selection-start-line="106" selection-start-column="58" selection-end-line="106" selection-end-column="58" />
-          <folding>
-            <element signature="e#143#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_pytest/test_pytest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1149">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_pytest/test_div.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-543">
-          <caret line="157" column="3" lean-forward="true" selection-start-line="157" selection-start-column="3" selection-end-line="157" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/_pytest/_code/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="565" selection-start-line="565" selection-end-line="565" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/_pytest/runner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="197" selection-start-line="197" selection-end-line="197" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pluggy/hooks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="285" selection-start-line="285" selection-end-line="285" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pluggy/manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="92" selection-start-line="92" selection-end-line="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pluggy/callers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="186" selection-start-line="186" selection-end-line="186" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/_pytest/python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="166" selection-start-line="166" selection-end-line="166" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_page_object/test_case/test_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_page_object/page/contacts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="839">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#135#193#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_page_object/page/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-          <folding>
-            <element signature="e#129#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_page_object/page/base_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="707">
-          <caret line="49" column="39" lean-forward="true" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
-          <folding>
-            <element signature="e#135#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_page_object/test_case/test_contacts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="11" selection-start-line="11" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_page_object/page/message.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-          <folding>
-            <element signature="e#132#175#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/learn_selenium/test_hogwarts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-910">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/learn_selenium/install_ev.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/learn_page_object/pageObject.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_appium/appium_install.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="206" lean-forward="true" selection-start-line="206" selection-end-line="206" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_python/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#48#77#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_hogwarts/sdet/Student.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_appium/test_android_studio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_appium/appium.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="-4059" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/lenrn_appium/appium_install.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="197" selection-start-line="197" selection-end-line="204" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_appium/test_mix2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/appium/webdriver/common/mobileby.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/by.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex_appium/test_xueqiu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-          <folding>
-            <element signature="e#288#313#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/lenrn_appium/appium_doc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1584321500169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584321500169" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1584321771698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584321771698" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584321363281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584321363281" />
   </component>
 </project>
