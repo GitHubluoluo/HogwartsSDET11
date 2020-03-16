@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex_appium/test_xueqiu.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_appium/test_xueqiu.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook/lenrn_appium/appium_doc.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/lenrn_appium/appium_doc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/lenrn_appium/appium_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/lenrn_appium/appium_install.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,20 +70,14 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>(&quot;ID&quot;,</find>
-      <find>e</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>((By.ID,</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>C:\Users\Yong\PycharmProjects\HogwartsSDET11</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1ZAaY3NKT6oyjHWHgXJFKjilWsJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -95,12 +88,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/test_pytest/div_test.log&#10;true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -115,23 +109,7 @@
       <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11\test_pytest" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_xueqiu.TestXueqiu.test_page_source">
-    <configuration name="pytest for test_xueqiu.TestXueqiu.test_devices" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="HogwartsSDET11" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_appium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xueqiu.TestXueqiu.test_devices&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.pytest for test_xueqiu.TestXueqiu.test_ui_selector">
     <configuration name="pytest for test_xueqiu.TestXueqiu.test_get_ali_hk_price" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="HogwartsSDET11" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,7 +126,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_xueqiu.TestXueqiu.test_get_price" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_xueqiu.TestXueqiu.test_ui_selector" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="HogwartsSDET11" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,49 +138,14 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xueqiu.TestXueqiu.test_get_price&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_xueqiu.TestXueqiu.test_page_source" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="HogwartsSDET11" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_appium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xueqiu.TestXueqiu.test_page_source&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_xueqiu.TestXueqiu.test_scroll" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="HogwartsSDET11" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_appium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xueqiu.TestXueqiu.test_scroll&quot;" />
+      <option name="_new_target" value="&quot;test_xueqiu.TestXueqiu.test_ui_selector&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_xueqiu.TestXueqiu.test_page_source" />
+        <item itemvalue="Python tests.pytest for test_xueqiu.TestXueqiu.test_ui_selector" />
         <item itemvalue="Python tests.pytest for test_xueqiu.TestXueqiu.test_get_ali_hk_price" />
-        <item itemvalue="Python tests.pytest for test_xueqiu.TestXueqiu.test_devices" />
-        <item itemvalue="Python tests.pytest for test_xueqiu.TestXueqiu.test_scroll" />
-        <item itemvalue="Python tests.pytest for test_xueqiu.TestXueqiu.test_get_price" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +192,15 @@
       <workItem from="1584284478629" duration="147000" />
       <workItem from="1584284776560" duration="211000" />
       <workItem from="1584285042121" duration="13000" />
-      <workItem from="1584321359454" duration="302000" />
+      <workItem from="1584321359454" duration="1221000" />
+      <workItem from="1584322590598" duration="294000" />
+      <workItem from="1584323492139" duration="228000" />
+      <workItem from="1584323752672" duration="8000" />
+      <workItem from="1584324713190" duration="134000" />
+      <workItem from="1584324875516" duration="140000" />
+      <workItem from="1584325276477" duration="11000" />
+      <workItem from="1584325791614" duration="231000" />
+      <workItem from="1584326032816" duration="12499000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1582725529245</created>
@@ -300,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584198276422</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add appium info">
+      <created>1584321813460</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1584321813460</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -315,6 +273,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="add ignore" />
@@ -323,20 +294,98 @@
     <MESSAGE value="add demo notebook package" />
     <MESSAGE value="add ex_PO notebook PO" />
     <MESSAGE value="add appium ex and note" />
-    <option name="LAST_COMMIT_MESSAGE" value="add appium ex and note" />
+    <MESSAGE value="add appium info" />
+    <option name="LAST_COMMIT_MESSAGE" value="add appium info" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2070" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584344902292">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2070" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584344902292" />
+    <state x="560" y="109" key="CommitChangelistDialog2" timestamp="1584321811123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="109" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584321811123" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1584321500169">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584321500169" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1584321771698">
+    <state width="1877" height="349" key="GridCell.Tab.0.bottom" timestamp="1584369884069">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584369884069" />
+    <state width="1877" height="349" key="GridCell.Tab.0.center" timestamp="1584369884069">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584369884069" />
+    <state width="1877" height="349" key="GridCell.Tab.0.left" timestamp="1584369884068">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584369884068" />
+    <state width="1877" height="349" key="GridCell.Tab.0.right" timestamp="1584369884069">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584369884069" />
+    <state width="1349" height="319" key="GridCell.Tab.1.bottom" timestamp="1584365065070">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1349" height="319" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584365065070" />
+    <state width="1349" height="319" key="GridCell.Tab.1.center" timestamp="1584365065070">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1349" height="319" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584365065070" />
+    <state width="1349" height="319" key="GridCell.Tab.1.left" timestamp="1584365065070">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1349" height="319" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584365065070" />
+    <state width="1349" height="319" key="GridCell.Tab.1.right" timestamp="1584365065070">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1349" height="319" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584365065070" />
+    <state x="2381" y="162" key="SettingsEditor" timestamp="1584345301411">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584326133736" />
+    <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584345301411" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584321817376">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584321771698" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584321363281">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584321817376" />
+    <state x="2192" y="354" width="1252" height="339" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.ADVANCED" timestamp="1584344775448">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2192" y="354" width="1252" height="339" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.ADVANCED/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584344775448" />
+    <state x="2419" y="392" width="393" height="271" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE" timestamp="1584343525417">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2419" y="392" width="393" height="271" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584343525417" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584326037140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584321363281" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584326037140" />
+    <state x="2560" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584322623313" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history>
+      <element expression="//*[@text='09988']/" />
+      <element expression="&quot;//*[@text='09988']/&quot;" />
+      <element expression="&quot;//*[@text='09988']&quot;" />
+      <element expression="//*[@text='09988']" />
+      <element expression="//*[@text='09988']/.." />
+      <element expression="//*[@text='09988']/../" />
+      <element expression="//*[@text='09988']/../.." />
+      <element expression="//*[@text='09988']/../../" />
+      <element expression="//*[@text='09988']/../../preceding-sibling::*" />
+      <element expression="//*[@text='09988']/parent::android.widget.LinearLayout/parent::android.widget.LinearLayout" />
+      <element expression="//*[@text='09988']/parent::android.widget.LinearLayout/parent::android.widget.LinearLayout/parent::android.widget.RelativeLayout" />
+      <element expression="//*[@text='09988']/parent::android.widget.LinearLayout/parent::android.widget.LinearLayout/parent::android.widget.RelativeLayout/android.widget.LinearLayout[1]" />
+      <element expression="//*[@text='09988']/parent::android.widget.LinearLayout/parent::android.widget.LinearLayout/parent::android.widget.RelativeLayout/android.widget.LinearLayout[2]" />
+      <element expression="//*[@text='09988']/parent::android.widget.LinearLayout/parent::android.widget.LinearLayout/parent::android.widget.RelativeLayout/android.widget.LinearLayout[2]/android.widget.TextView[1]" />
+    </history>
+    <find-history />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu_test_get_ali_hk_price.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_get_ali_hk_price Coverage Results" MODIFIED="1584365636729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu_test_ui_selector.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_ui_selector Coverage Results" MODIFIED="1584369884061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
   </component>
 </project>
