@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad2473df-c3d4-4238-8de3-1eb871ce6ede" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_appium/test_xueqiu.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_appium/test_xueqiu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/lenrn_appium/appium_doc.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/lenrn_appium/appium_doc.py" afterDir="false" />
-    </list>
+    <list default="true" id="ad2473df-c3d4-4238-8de3-1eb871ce6ede" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +59,20 @@
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_unity_TestStringMethods.coverage" NAME="pytest for unity.TestStringMethods Coverage Results" MODIFIED="1582875219161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_unittest" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_two_TestHogwartsOne_test_qw_add_user.coverage" NAME="pytest for test_work_two.TestHogwartsOne.test_qw_add_user Coverage Results" MODIFIED="1583471223257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -72,6 +82,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:GitHubluoluo/HogwartsSDET11.git" />
+      </set>
+    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -91,61 +109,115 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/test_pytest/div_test.log&#10;true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ex_app_page_object/page" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11\ex_app_page_object\page" />
+      <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11\ex_app_page_object\tast_case" />
+      <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11\ex_appium\driver" />
+      <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11\ex_appium\chromedriver" />
       <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11\notebook\lenrn_appium" />
-      <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11\ex_page_object\test_case" />
-      <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11\ex_page_object\page" />
-      <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11\ex_selenium" />
-      <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11\notebook\learn_selenium" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11\ex_app_page_object\page" />
+      <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11\ex_app_page_object\tast_case" />
+      <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11" />
+      <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11\ex_selenium" />
       <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11\ex_python" />
-      <recent name="C:\Users\Yong\PycharmProjects\HogwartsSDET11\test_pytest" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_xueqiu.TestXueqiu.test_ui_selector">
-    <configuration name="pytest for test_xueqiu.TestXueqiu.test_get_ali_hk_price" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_stocks.TestStocks.test_search">
+    <configuration name="pytest for ex_app_page_object.test_case.test_search.TestSearch.test_search_all" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="HogwartsSDET11" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_appium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_app_page_object/test_case" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xueqiu.TestXueqiu.test_get_ali_hk_price&quot;" />
+      <option name="_new_target" value="&quot;ex_app_page_object.test_case.test_search.TestSearch.test_search_all&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_xueqiu.TestXueqiu.test_ui_selector" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for ex_app_page_object.test_case.test_search.TestSearch.test_select" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="HogwartsSDET11" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_appium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_app_page_object/test_case" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xueqiu.TestXueqiu.test_ui_selector&quot;" />
+      <option name="_new_target" value="&quot;ex_app_page_object.test_case.test_search.TestSearch.test_select&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for ex_app_page_object.test_case.test_stocks.TestStocks.test_search" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HogwartsSDET11" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_app_page_object/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ex_app_page_object.test_case.test_stocks.TestStocks.test_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_data_driver.TestDataDriver.test_steps_driver" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HogwartsSDET11" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_app_page_object/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_data_driver.TestDataDriver.test_steps_driver&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_stocks.TestStocks.test_search" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HogwartsSDET11" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_app_page_object/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_stocks.TestStocks.test_search&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_xueqiu.TestXueqiu.test_ui_selector" />
-        <item itemvalue="Python tests.pytest for test_xueqiu.TestXueqiu.test_get_ali_hk_price" />
+        <item itemvalue="Python tests.pytest for test_stocks.TestStocks.test_search" />
+        <item itemvalue="Python tests.pytest for test_data_driver.TestDataDriver.test_steps_driver" />
+        <item itemvalue="Python tests.pytest for ex_app_page_object.test_case.test_search.TestSearch.test_search_all" />
+        <item itemvalue="Python tests.pytest for ex_app_page_object.test_case.test_stocks.TestStocks.test_search" />
+        <item itemvalue="Python tests.pytest for ex_app_page_object.test_case.test_search.TestSearch.test_select" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +272,38 @@
       <workItem from="1584324875516" duration="140000" />
       <workItem from="1584325276477" duration="11000" />
       <workItem from="1584325791614" duration="231000" />
-      <workItem from="1584326032816" duration="12499000" />
+      <workItem from="1584326032816" duration="12587000" />
+      <workItem from="1584514884987" duration="3975000" />
+      <workItem from="1584582984078" duration="7930000" />
+      <workItem from="1584669815526" duration="6955000" />
+      <workItem from="1584768225357" duration="5822000" />
+      <workItem from="1584776380791" duration="13422000" />
+      <workItem from="1584876299440" duration="11055000" />
+      <workItem from="1584971786748" duration="2943000" />
+      <workItem from="1584974989699" duration="13000" />
+      <workItem from="1585100029933" duration="6772000" />
+      <workItem from="1586322937526" duration="3000" />
+      <workItem from="1586341083112" duration="4000" />
+      <workItem from="1586343089032" duration="116000" />
+      <workItem from="1588574076733" duration="11000" />
+      <workItem from="1588814805784" duration="1322000" />
+      <workItem from="1588902893069" duration="775000" />
+      <workItem from="1589074643555" duration="1805000" />
+      <workItem from="1589285180611" duration="2844000" />
+      <workItem from="1589509418848" duration="1198000" />
+      <workItem from="1590026930974" duration="340000" />
+      <workItem from="1590027413147" duration="100000" />
+      <workItem from="1590027536986" duration="5253000" />
+      <workItem from="1590153605016" duration="750000" />
+      <workItem from="1590460942205" duration="10440000" />
+      <workItem from="1590619976296" duration="11115000" />
+      <workItem from="1590635888992" duration="5761000" />
+      <workItem from="1590715616001" duration="883000" />
+      <workItem from="1590821650741" duration="4280000" />
+      <workItem from="1590841977018" duration="8384000" />
+      <workItem from="1590905152818" duration="11785000" />
+      <workItem from="1590965566592" duration="27414000" />
+      <workItem from="1591064874473" duration="1538000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1582725529245</created>
@@ -258,17 +361,78 @@
       <option name="project" value="LOCAL" />
       <updated>1584321813460</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add appium 定位">
+      <created>1584370111984</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584370111984</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add appium 定位">
+      <created>1590653315450</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590653315450</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add appium 定位">
+      <created>1590653337368</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590653337368</updated>
+    </task>
+    <task id="LOCAL-00012" summary="app page object 初步搭建流程跑通过 然后在实现里面方法细节">
+      <created>1590843413426</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590843413426</updated>
+    </task>
+    <task id="LOCAL-00013" summary="app page object 使用传递参的方式 传递——driver  实现测试case">
+      <created>1590846424182</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590846424182</updated>
+    </task>
+    <task id="LOCAL-00014" summary="app page object  实现基本的用户登录">
+      <created>1590908732508</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1590908732508</updated>
+    </task>
+    <task id="LOCAL-00015" summary="app page object  异常处理 弹框评价排除 股票添加自选">
+      <created>1590968088386</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590968088387</updated>
+    </task>
+    <task id="LOCAL-00016" summary="app page object  课间作业 行情添加自选股 JD 并验证">
+      <created>1590971898832</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590971898832</updated>
+    </task>
+    <task id="LOCAL-00017" summary="app page object  数据驱动  步骤驱动">
+      <created>1591014515945</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1591014515945</updated>
+    </task>
+    <task id="LOCAL-00018" summary="app page object  数据驱动  步骤驱动">
+      <created>1591016291922</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1591016291922</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
-  </component>
-  <component name="TodoView" selected-index="4">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -295,62 +459,76 @@
     <MESSAGE value="add ex_PO notebook PO" />
     <MESSAGE value="add appium ex and note" />
     <MESSAGE value="add appium info" />
-    <option name="LAST_COMMIT_MESSAGE" value="add appium info" />
+    <MESSAGE value="add appium 定位" />
+    <MESSAGE value="app page object 初步搭建流程跑通过 然后在实现里面方法细节" />
+    <MESSAGE value="app page object 使用传递参的方式 传递——driver  实现测试case" />
+    <MESSAGE value="app page object  实现基本的用户登录" />
+    <MESSAGE value="app page object  异常处理 弹框评价排除 股票添加自选" />
+    <MESSAGE value="app page object  课间作业 行情添加自选股 JD 并验证" />
+    <MESSAGE value="app page object  数据驱动  步骤驱动" />
+    <option name="LAST_COMMIT_MESSAGE" value="app page object  数据驱动  步骤驱动" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2070" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584344902292">
+    <state x="2070" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584769754071">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2070" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584344902292" />
-    <state x="560" y="109" key="CommitChangelistDialog2" timestamp="1584321811123">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2070" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584769754071" />
+    <state x="2612" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590823797274">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2612" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590823797274" />
+    <state x="2480" y="109" key="CommitChangelistDialog2" timestamp="1591066159912">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="560" y="109" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584321811123" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1584321500169">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2480" y="109" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591066159912" />
+    <state x="2660" y="261" key="FileChooserDialogImpl" timestamp="1591016276959">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584321500169" />
-    <state width="1877" height="349" key="GridCell.Tab.0.bottom" timestamp="1584369884069">
+    <state x="2660" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591016276959" />
+    <state width="1877" height="424" key="GridCell.Tab.0.bottom" timestamp="1591018430094">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="349" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584369884069" />
-    <state width="1877" height="349" key="GridCell.Tab.0.center" timestamp="1584369884069">
+    <state width="1877" height="424" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591018430094" />
+    <state width="1877" height="424" key="GridCell.Tab.0.center" timestamp="1591018430094">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="349" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584369884069" />
-    <state width="1877" height="349" key="GridCell.Tab.0.left" timestamp="1584369884068">
+    <state width="1877" height="424" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591018430094" />
+    <state width="1877" height="424" key="GridCell.Tab.0.left" timestamp="1591018430094">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="349" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584369884068" />
-    <state width="1877" height="349" key="GridCell.Tab.0.right" timestamp="1584369884069">
+    <state width="1877" height="424" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591018430094" />
+    <state width="1877" height="424" key="GridCell.Tab.0.right" timestamp="1591018430094">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="349" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584369884069" />
-    <state width="1349" height="319" key="GridCell.Tab.1.bottom" timestamp="1584365065070">
+    <state width="1877" height="424" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591018430094" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1590465159475">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1349" height="319" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584365065070" />
-    <state width="1349" height="319" key="GridCell.Tab.1.center" timestamp="1584365065070">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590465159475" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1590465159475">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1349" height="319" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584365065070" />
-    <state width="1349" height="319" key="GridCell.Tab.1.left" timestamp="1584365065070">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590465159475" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1590465159475">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1349" height="319" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584365065070" />
-    <state width="1349" height="319" key="GridCell.Tab.1.right" timestamp="1584365065070">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590465159475" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1590465159475">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1349" height="319" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584365065070" />
-    <state x="2381" y="162" key="SettingsEditor" timestamp="1584345301411">
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590465159475" />
+    <state x="2381" y="162" key="SettingsEditor" timestamp="1591016282617">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584326133736" />
-    <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584345301411" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584321817376">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591016282617" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584370113727">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584321817376" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584370113727" />
     <state x="2192" y="354" width="1252" height="339" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.ADVANCED" timestamp="1584344775448">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -359,11 +537,19 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2419" y="392" width="393" height="271" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584343525417" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584326037140">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2560" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1591064874746">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584326037140" />
-    <state x="2560" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584322623313" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590027414123" />
+    <state x="2560" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591064874746" />
+    <state x="2672" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591016299603">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2672" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591016299603" />
+    <state x="2556" y="119" width="647" height="801" key="find.popup" timestamp="1590507179253">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2556" y="119" width="647" height="801" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590507179253" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history>
@@ -385,7 +571,31 @@
     <find-history />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu_test_get_ali_hk_price.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_get_ali_hk_price Coverage Results" MODIFIED="1584365636729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_web_view_TestWebView_test_webview_hybrid.coverage" NAME="pytest for test_web_view.TestWebView.test_webview_hybrid Coverage Results" MODIFIED="1590507464029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_api_demo_TestXueqiu_test_api_demo.coverage" NAME="pytest for test_api_demo.TestXueqiu.test_api_demo Coverage Results" MODIFIED="1590028152045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu_test_search.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_search Coverage Results" MODIFIED="1589285752768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu_test_page_source.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_page_source Coverage Results" MODIFIED="1584769182804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_web_view_TestWebView_test_performance.coverage" NAME="pytest for test_web_view.TestWebView.test_performance Coverage Results" MODIFIED="1590502854697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu.coverage" NAME="pytest for test_xueqiu.TestXueqiu Coverage Results" MODIFIED="1584517120566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_api_demo_TestXueqiu_test_scroll.coverage" NAME="pytest for test_api_demo.TestXueqiu.test_scroll Coverage Results" MODIFIED="1584693341779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_web_view_TestWebView_test_webview_home_work.coverage" NAME="pytest for test_web_view.TestWebView.test_webview_home_work Coverage Results" MODIFIED="1590627159715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_mix2_py.coverage" NAME="pytest in test_mix2.py Coverage Results" MODIFIED="1590028300375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_one_TestDefaultSuite_test_seleniumtesthome.coverage" NAME="pytest for test_work_one.TestDefaultSuite.test_seleniumtesthome Coverage Results" MODIFIED="1590027802754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_in_test_android_studio_py.coverage" NAME="pytest in test_android_studio.py Coverage Results" MODIFIED="1590028242977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu_test_get_ali_hk_add.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_get_ali_hk_add Coverage Results" MODIFIED="1584769984412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu_test_webview_natvie.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_webview_natvie Coverage Results" MODIFIED="1584774944470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu_test_get_ali_hk_price.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_get_ali_hk_price Coverage Results" MODIFIED="1584773224210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_stocks_TestStocks_test_search.coverage" NAME="pytest for test_stocks.TestStocks.test_search Coverage Results" MODIFIED="1591018430088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_app_page_object/test_case" />
     <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_xueqiu_TestXueqiu_test_ui_selector.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_ui_selector Coverage Results" MODIFIED="1584369884061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_search_TestSearch_test_search_all.coverage" NAME="pytest for test_search.TestSearch.test_search_all Coverage Results" MODIFIED="1590974731952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_app_page_object/tast_case" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_search_TestSearch_test_select.coverage" NAME="pytest for test_search.TestSearch.test_select Coverage Results" MODIFIED="1590934659784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_app_page_object/tast_case" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_search_TestSearch_test_search.coverage" NAME="pytest for test_search.TestSearch.test_search Coverage Results" MODIFIED="1590932648421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_app_page_object/tast_case" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_web_view_TestWebView_test_webview_Hybrid.coverage" NAME="pytest for test_web_view.TestWebView.test_webview_Hybrid Coverage Results" MODIFIED="1584885770179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_work_two_TestHogwartsOne_test_more_window.coverage" NAME="pytest for test_work_two.TestHogwartsOne.test_more_window Coverage Results" MODIFIED="1590027874210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_selenium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_profile_TestProfile_test_login.coverage" NAME="pytest for test_profile.TestProfile.test_login Coverage Results" MODIFIED="1590931490654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_app_page_object/tast_case" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_data_driver_TestDataDriver_test_steps_driver.coverage" NAME="pytest for test_data_driver.TestDataDriver.test_steps_driver Coverage Results" MODIFIED="1591012923279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_app_page_object/test_case" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_web_view_TestWebView_test_webview_work.coverage" NAME="pytest for test_web_view.TestWebView.test_webview_work Coverage Results" MODIFIED="1590635478896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_web_view_TestWebView_test_shell.coverage" NAME="pytest for test_web_view.TestWebView.test_shell Coverage Results" MODIFIED="1590503161546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET11$pytest_for_test_web_view_TestWebView_test_webview_native.coverage" NAME="pytest for test_web_view.TestWebView.test_webview_native Coverage Results" MODIFIED="1590624122415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex_appium" />
   </component>
 </project>

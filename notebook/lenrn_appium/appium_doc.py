@@ -57,11 +57,18 @@ scrcpy -S
 运行 appium 使用 -g 参数追加 日志 
 
 $ appium -g 'C:\Users\Yong\PycharmProjects\HogwartsSDET11\ex_appium\appium.log'
+$ appium -g 'C:\Users\Yong\PycharmProjects\HogwartsSDET11\ex_appium\appium.log' --log-timestamp --local-timezone
 
+ 或者执行 node C:\Users\Yong\AppData\Roaming\npm\node_modules\appium\build\lib\main.js 
+ 
+ appium -h  查看 帮助
+ 
 [Appium] Welcome to Appium v1.16.0
 [Appium] Non-default server args:
 [Appium]   logFile: C:\Users\Yong\PycharmProjects\HogwartsSDET11\ex_appium\appium.log
 [Appium] Appium REST http interface listener started on 0.0.0.0:4723
+
+
 
 # 查看 appium 日志
 # less appium.log | grep Running
@@ -209,6 +216,8 @@ def test_page_source(self):
         # 如果进程在不用杀死 测试app
         caps["unicodeKeyboard"] = True  # 输入中文
         caps["resetKeyboard"] = True   # 恢复键盘
+        caps["udid"] =    # 多台设备ID 输入设备ID
+        
         self.driver = webdriver.Remote("http://localhost:4723/wd/hub", caps)
         self.driver.implicitly_wait(10)
 """
@@ -233,3 +242,32 @@ WebDriverWait(self.driver, 10).until(expected_conditions.visibility_of_element_l
 # appium 滑动操作
 # appium文档 http://appium.io/docs/en/about-appium/intro/
 
+
+# 断言
+"""
+public enum Attribute {
+    CHECKABLE(new String[]{"checkable"}),
+    CHECKED(new String[]{"checked"}),
+    CLASS(new String[]{"class", "className"}),
+    CLICKABLE(new String[]{"clickable"}),
+    CONTENT_DESC(new String[]{"content-desc", "contentDescription"}),
+    ENABLED(new String[]{"enabled"}),
+    FOCUSABLE(new String[]{"focusable"}),
+    FOCUSED(new String[]{"focused"}),
+    LONG_CLICKABLE(new String[]{"long-clickable", "longClickable"}),
+    PACKAGE(new String[]{"package"}),
+    PASSWORD(new String[]{"password"}),
+    RESOURCE_ID(new String[]{"resource-id", "resourceId"}),
+    SCROLLABLE(new String[]{"scrollable"}),
+    SELECTION_START(new String[]{"selection-start"}),
+    SELECTION_END(new String[]{"selection-end"}),
+    SELECTED(new String[]{"selected"}),
+    TEXT(new String[]{"text", "name"}),
+    // The main difference of this attribute from the preceding one is that
+    // it does not replace null values with empty strings
+    ORIGINAL_TEXT(new String[]{"original-text"}, false, false),
+    BOUNDS(new String[]{"bounds"}),
+    INDEX(new String[]{"index"}, false, true),
+    DISPLAYED(new String[]{"displayed"}),
+    CONTENT_SIZE(new String[]{"contentSize"}, true, false);
+"""

@@ -17,6 +17,7 @@ from datetime import datetime
 from appium import webdriver
 from appium.webdriver.common.mobileby import MobileBy
 from appium.webdriver.common.touch_action import TouchAction
+from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
@@ -29,14 +30,14 @@ class TestXueqiu:
         caps["deviceName"] = "xiaomi"
         caps["appPackage"] = "com.xueqiu.android"
         caps["appActivity"] = ".view.WelcomeActivityAlias"
-        caps["undefined"] = "uiautomator2"
+        caps["automationName"] = "uiautomator2"
         caps["noReset"] = True
         # 重置数据 为了速度快 可以打开此项 然后 开始点击的同意就没有了
         caps["dontStopAppOnReset"] = True
         # 如果进程在不用杀死 测试app
         caps["unicodeKeyboard"] = True  # 输入中文
         caps["resetKeyboard"] = True   # 恢复键盘
-        caps["skipServerInstallation"] = True  # 跳过server 测试 框架 安装
+        # caps["skipServerInstallation"] = True  # 跳过server 测试 框架 安装
         self.driver = webdriver.Remote("http://localhost:4723/wd/hub", caps)
         # 显式等待
         self.driver.implicitly_wait(20)
@@ -124,13 +125,15 @@ class TestXueqiu:
         # ele_xpath = "//*[@text='09988']/parent::android.widget.LinearLayout/../../android.widget.LinearLayout[2]"
         # ele_xpath = "//*[@text='09988']/../../../android.widget.LinearLayout[2]/android.widget.TextView[1]"
         ele_xpath = "//*[@text='09988']/../../..//*[contains(@resource-id,'current_price')]"
-
         ali_price = self.driver.find_element(MobileBy.XPATH, ele_xpath).text
         print(ali_price)
         assert float(ali_price) > 100
+        # 使用小写中杠 或者 小驼峰命名法 获取属性 "resource-id", "resourceId"
+        resource_id = self.driver.find_element(MobileBy.XPATH, ele_xpath).get_attribute('resource-id')
+        print(resource_id)
+
 
     # UiAutomator Selector
-    # 滚动到 某个元素
     """
     框架 底层 提供 UiAutomator Selector 
     文档 https://developer.android.com/reference/android/support/test/uiautomator/UiSelector.html
@@ -167,9 +170,42 @@ class TestXueqiu:
         调用视图方法 scrollIntoView 传入元素
         UiSelector 定位元素的方法
         """
+        # 滑动到 1小时前点击
         sel_str = 'new UiScrollable(new UiSelector().scrollable(true).instance(0)).scrollIntoView(new UiSelector().text("1小时前").instance(0));'
         scroll_to_element = (MobileBy.ANDROID_UIAUTOMATOR, sel_str)
         self.driver.find_element(*scroll_to_element).click()
+
+    def test_get_ali_hk_add(self):
+        ali = "阿里巴巴"
+        self.scroll_search(ali)
+        ele_add = "//*[@text='09988']/../../..//*[contains(@resource-id,'follow_btn')]"
+
+        # 点击添加香港自选股
+        self.driver.find_element(MobileBy.XPATH, ele_add).click()
+        # self.driver.find_element(By.ID, "tv_left").click()
+        self.driver.find_element(By.ID, "action_close").click()
+        self.scroll_search(ali)
+        ele_add_ed = "//*[@text='09988']/../../..//*[contains(@resource-id,'followed_btn')]"
+        followed = self.driver.find_element(MobileBy.XPATH, ele_add_ed).get_attribute('text')
+        assert followed == "已添加"
+
+        # print(resource_id)
+
+    def scroll_search(self, scroll_name):
+        self.driver.find_element(MobileBy.ID, "tv_search").click()
+        self.driver.find_element(MobileBy.ID, "search_input_text").send_keys(scroll_name)
+        self.driver.find_element(MobileBy.ID, "name").click()
+
+    #  webview  测试
+    def test_webview_natvie(self):
+        self.driver.find_element(By.XPATH, "//*[@text='交易' and contains(@resource-id,'tab_name')]").click()
+        self.driver.find_element(MobileBy.ACCESSIBILITY_ID, "A股开户").click()
+        submit = (MobileBy.ACCESSIBILITY_ID, "立即开户")
+        WebDriverWait(self.driver, 20).until(expected_conditions.element_to_be_clickable(submit))
+        # 不能输入
+        self.driver.find_element(By.XPATH, "//*[@content-desc='平安证券 极速开户'/View[3]/EditText/EditText").send_keys("123456789")
+
+
 
     # 获取当前 页面资源
     def test_page_source(self):

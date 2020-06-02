@@ -32,5 +32,5 @@ class Message(BasePage):
 
     def get_success(self, msg):
         self.wait(10, expected_conditions.visibility_of_element_located((By.CLASS_NAME, 'msg_history_msgList')))
-        return msg in self.get_element(By.ID, "js_tips").text
+        return msg in self.text
 

@@ -45,10 +45,26 @@ class BasePage:
         self._driver.quit()
 
     def wait(self, timeout, method):
+        """
+
+        Args:
+            timeout:
+            method:
+
+        Returns:
+
+        """
         WebDriverWait(self._driver, timeout).until(method)
 
     def get_element(self, by, locator):
         return self._driver.find_element(by, locator)
 
     def get_elements(self, by, locator):
+        """
+        Args:
+            by:
+            locator:
+        Returns:
+
+        """
         return self._driver.find_element(by, locator)

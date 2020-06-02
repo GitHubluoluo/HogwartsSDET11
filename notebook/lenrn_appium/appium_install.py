@@ -37,6 +37,10 @@ cnpm install -g appium
 本地可使用 appium-desktop
 https://github.com/appium/appium-desktop/releases
 
+3. 如果要使用多个版本的 appium 
+ 
+在安装目录 npm install appium 
+并在当前 路径node_modules/appium/build/lib/main.js   启动appium
 """
 # 安装 Android sdk 可以 安装 android studio
 """
@@ -53,6 +57,8 @@ https://blog.csdn.net/qq_42391248/article/details/101781994
 
 此时 可以 安装 
 npm install -g appium-doctor
+
+
 
 然后运行 appium-doctor 测试开发环境
 
@@ -122,6 +128,18 @@ miui 优化
 """
 https://github.com/appium/appium-desktop
 演练app：https://sj.qq.com/myapp/detail.htm?apkName=com.xueqiu.android
+安装雪球 
+$ adb install -r com.xueqiu.android_12.5_255.apk
+Performing Streamed Install
+Success
+
+雪球app的入口
+com.xueqiu.android/.view.WelcomeActivityAlias
+$ adb logcat |grep -i displayed
+03-13 12:56:55.235  1649  1670 I ActivityManager: Displayed com.xueqiu.android/.common.splash.SplashActivity: +125ms
+
+Displayed com.xueqiu.android/.common.splash.SplashActivity
+
 
 app信息
 打开 git bash 
@@ -131,10 +149,7 @@ $ adb shell dumpsys activity top | less
 
 获取任务列表：
 $ adb shell dumpsys activity activities
-安装雪球 
-$ adb install -r com.xueqiu.android_12.5_255.apk
-Performing Streamed Install
-Success
+
 
 雪球app的入口
 com.xueqiu.android/.view.WelcomeActivityAlias
@@ -201,7 +216,7 @@ https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/caps
   "deviceName": "xiaomi",
   "appPackage": "com.xueqiu.android",
   "appActivity": ".view.WelcomeActivityAlias",
-  "undefined": "uiautomator2"
+  "automationName": "uiautomator2"
 }
 
  
@@ -225,7 +240,7 @@ https://github.com/appium/appium-desktop
   "deviceName": "xiaomi",
   "appPackage": "com.xueqiu.android",
   "appActivity": ".view.WelcomeActivityAlias",
-  "undefined": "uiautomator2"
+  "automationName": "uiautomator2"
 }
 
 amdroid 的界面是基于xml的 

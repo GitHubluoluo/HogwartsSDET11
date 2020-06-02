@@ -45,5 +45,5 @@ class Contacts(BasePage):
     def get_success(self, msg):
         success_tag = (By.ID, 'js_tips')
         self.wait(10, expected_conditions.visibility_of_element_located(success_tag))
-        return msg in self.get_element(*success_tag).text
+        return msg in self.text
 
